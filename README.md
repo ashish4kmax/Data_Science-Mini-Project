@@ -9,6 +9,10 @@
 * math: Imported for mathematical calculations, specifically for computing logarithms.
 * Dataset: The code operates on a sample weather dataset provided in the 'data' dictionary. This dataset contains attributes such as Outlook, Temperature, Humidity, Windy, and Play (the target attribute). You can see the dataset initialization at the beginning of the code.
 
+* Below are the commands to install the libraries before starting:-
+* pip install pandas
+* pip install math
+
 * DataFrame Creation: The code creates a pandas DataFrame named 'df' using the sample weather dataset. This DataFrame organizes the data in tabular form, which is convenient for analysis and manipulation.
 
 * Entropy Calculation: The entropy() function calculates the entropy of a target column. Entropy is a measure of impurity in a dataset.
